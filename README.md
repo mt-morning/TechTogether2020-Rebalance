@@ -1,5 +1,4 @@
-# Submission for TechTogether 2020 Boston
-# TechTogether2020-Rebalance
+# Submission for TechTogether 2020 Boston: Rebalance
 
 https://devpost.com/software/rebalance-i4zljs
 
